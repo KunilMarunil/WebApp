@@ -1,9 +1,8 @@
-// DataPungutan.js
 import React, { useState } from 'react';
 import { Grid, TextField, MenuItem, IconButton, Button, Checkbox, FormControlLabel, Typography, Box } from '@mui/material';
 import RefreshIcon from '@mui/icons-material/Refresh';
 
-function DataPungutan() {
+const DataPungutan = ({ data }) => {
   const [voluntaryDeclaration, setVoluntaryDeclaration] = useState(false);
 
   // Handle checkbox toggle for "Voluntary Declaration"

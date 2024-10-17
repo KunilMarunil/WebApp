@@ -1,27 +1,36 @@
-﻿using System.Data;
+﻿using Microsoft.Data.SqlClient;
+using System.Data;
 using WebApp.Models;
 
 namespace WebApp.Views
 {
     public class DataPungutanView
     {
-        public static List<Postingan> SelectPostItem()
+        public static List<DataPungutan> SelectDataPungutan(int id)
         {
             try
             {
-                List<Postingan> result = new List<Postingan>();
+                List<DataPungutan> result = new List<DataPungutan>();
 
-                string query = @"SELECT * FROM Content";
+                string query = @"SELECT * FROM DataPungutan WHERE Id = @Id";
 
-                DataTable dt = CRUD.ExecuteQuery(query);
+                SqlParameter[] sqlParams = new SqlParameter[]
+                {
+                    new SqlParameter("@Id", SqlDbType.VarChar){ Value = id },
+                };
+
+                DataTable dt = CRUD.ExecuteQuery(query, sqlParams);
                 foreach (DataRow row in dt.Rows)
                 {
-                    Postingan tempData = new Postingan
+                    DataPungutan tempData = new DataPungutan
                     {
-                        Judul = (string)row["Judul"],
-                        Deskripsi = (string)row["Deskripsi"],
-                        Konten = (string)row["Konten"],
-                        Image = (string)row["Image"],
+                        Id = (int)row["Id"],
+                        NilaiFOB = (decimal)row["NilaiFOB"],
+                        CIF = (decimal)row["CIF"],
+                        CIFRp = (decimal)row["CIFRp"],
+                        Bruto = (decimal)row["Bruto"],
+                        Netto = (decimal)row["Netto"],
+                        FlagKontainer = (string)row["FlagKontainer"],
                     };
 
                     result.Add(tempData);
@@ -33,17 +42,17 @@ namespace WebApp.Views
                 throw;
             }
         }
-        public static void UpdatePostItem(string Judul, int IDPostingan)
-        {
-            string query = @"Update Content set Judul = @judul where IDPostingan = @id";
+        //public static void UpdatePostItem(string Judul, int IDPostingan)
+        //{
+        //    string query = @"Update Content set Judul = @judul where IDPostingan = @id";
 
-            SqlParameter[] sqlParams = new SqlParameter[]
-            {
-            new SqlParameter("@judul", SqlDbType.VarChar){ Value = Judul },
-            new SqlParameter("@id", SqlDbType.VarChar){ Value = IDPostingan },
-            };
+        //    SqlParameter[] sqlParams = new SqlParameter[]
+        //    {
+        //    new SqlParameter("@judul", SqlDbType.VarChar){ Value = Judul },
+        //    new SqlParameter("@id", SqlDbType.VarChar){ Value = IDPostingan },
+        //    };
 
-            CRUD.ExecuteNonQuery(query, sqlParams);
-        }
+        //    CRUD.ExecuteNonQuery(query, sqlParams);
+        //}
     }
 }

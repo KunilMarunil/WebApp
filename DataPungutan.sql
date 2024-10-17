@@ -1,0 +1,20 @@
+CREATE TABLE DataPungutan (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+	NomorPengajuan NVARCHAR(50) NOT NULL,
+    Incoterms NVARCHAR(50) NOT NULL,
+    Valuta NVARCHAR(50) NOT NULL,
+    Kurs DECIMAL(18, 4) NOT NULL,
+    Nilai DECIMAL(18, 2) NOT NULL,
+    BiayaTambahan DECIMAL(18, 2) NULL,
+    BiayaPengurang DECIMAL(18, 2) NULL,
+    VoluntaryDeclaration BIT NOT NULL,
+    NilaiFOB DECIMAL(18, 2) NOT NULL,
+    AsuransiBayarDi NVARCHAR(50) NOT NULL,
+    Asuransi DECIMAL(18, 2) NULL,
+    Freight DECIMAL(18, 2) NULL,
+    CIF DECIMAL(18, 2) NOT NULL,
+    CIFRp DECIMAL(18, 2) NOT NULL,
+    Bruto DECIMAL(18, 2) NOT NULL,
+    Netto DECIMAL(18, 2) NOT NULL,
+    FlagKontainer NVARCHAR(50) NOT NULL
+);

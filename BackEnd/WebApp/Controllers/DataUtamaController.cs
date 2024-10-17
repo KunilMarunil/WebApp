@@ -4,7 +4,7 @@ using WebApp.Views;
 
 namespace WebApp.Controllers
 {
-    [Route("Data Utama")]
+    [Route("DataUtama")]
     [ApiController]
     public class DataUtamaController : Controller
     {

@@ -4513,11 +4513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\WebApp.csproj",
+      "projectPath": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\ramad\\.nuget\\packages\\",
-      "outputPath": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\obj\\",
+      "outputPath": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

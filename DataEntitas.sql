@@ -1,0 +1,18 @@
+CREATE TABLE DataEntitas (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+	NomorPengajuan NVARCHAR(50) NOT NULL,
+    JenisPemberitahuan NVARCHAR(50) NOT NULL,
+    JenisIdentitas NVARCHAR(50) NOT NULL,
+    NIB NVARCHAR(20) NULL,
+    TanpaNIB BIT NOT NULL,
+    NoIdentitas NVARCHAR(16) NOT NULL,
+    NamaPerusahaan NVARCHAR(100) NOT NULL,
+    Provinsi NVARCHAR(50) NOT NULL,
+    KotaKabupaten NVARCHAR(50) NOT NULL,
+    Kecamatan NVARCHAR(50) NOT NULL,
+    KodePos NVARCHAR(10) NOT NULL,
+    RTRW NVARCHAR(10) NULL,
+    Telephone NVARCHAR(20) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    Status NVARCHAR(50) NOT NULL
+);

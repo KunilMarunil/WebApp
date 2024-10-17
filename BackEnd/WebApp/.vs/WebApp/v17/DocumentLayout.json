@@ -1,42 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\",
+  "WorkspaceRootPath": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\controllers\\dataentitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:controllers\\dataentitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\views\\dataentitasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:views\\dataentitasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\models\\dataentitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:models\\dataentitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\views\\datautamaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:views\\datautamaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\controllers\\datautamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:controllers\\datautamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\models\\datautama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\models\\datautama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:models\\datautama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\controllers\\datapungutancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\controllers\\datapungutancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:controllers\\datapungutancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\models\\data pungutan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:models\\data pungutan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\models\\datapungutan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:models\\datapungutan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\backend\\webapp\\views\\datapungutanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\controllers\\dataentitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:controllers\\dataentitascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\controllers\\datautamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:controllers\\datautamacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\views\\datapungutanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:views\\datapungutanview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\views\\dataentitasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:views\\dataentitasview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\models\\dataentitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:models\\dataentitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|h:\\macam api\\webapp\\webapp\\backend\\webapp\\views\\datautamaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855D33A6-7851-4FF3-BD5A-2F17D8001BD5}|WebApp.csproj|solutionrelative:views\\datautamaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "DataUtama.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\DataUtama.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataUtama.cs",
               "RelativeDocumentMoniker": "Models\\DataUtama.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\DataUtama.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataUtama.cs",
               "RelativeToolTip": "Models\\DataUtama.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T18:52:24.38Z",
               "IsPinned": true,
@@ -64,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "DataUtamaView.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataUtamaView.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataUtamaView.cs",
               "RelativeDocumentMoniker": "Views\\DataUtamaView.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataUtamaView.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataUtamaView.cs",
               "RelativeToolTip": "Views\\DataUtamaView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T18:57:54.831Z",
               "IsPinned": true,
@@ -80,11 +84,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DataUtamaController.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataUtamaController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataUtamaController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataUtamaController.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataUtamaController.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataUtamaController.cs",
               "RelativeToolTip": "Controllers\\DataUtamaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:01:25.328Z",
               "IsPinned": true,
@@ -92,13 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "DataEntitas.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\DataEntitas.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataEntitas.cs",
               "RelativeDocumentMoniker": "Models\\DataEntitas.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\DataEntitas.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataEntitas.cs",
               "RelativeToolTip": "Models\\DataEntitas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:09:36.475Z",
               "IsPinned": true,
@@ -106,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "DataEntitasView.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataEntitasView.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataEntitasView.cs",
               "RelativeDocumentMoniker": "Views\\DataEntitasView.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataEntitasView.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataEntitasView.cs",
               "RelativeToolTip": "Views\\DataEntitasView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:17:12.291Z",
               "IsPinned": true,
@@ -120,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DataEntitasController.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataEntitasController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataEntitasController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataEntitasController.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataEntitasController.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataEntitasController.cs",
               "RelativeToolTip": "Controllers\\DataEntitasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:18:42.279Z",
               "IsPinned": true,
@@ -134,13 +138,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Data Pungutan.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\Data Pungutan.cs",
-              "RelativeDocumentMoniker": "Models\\Data Pungutan.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Models\\Data Pungutan.cs",
-              "RelativeToolTip": "Models\\Data Pungutan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "DocumentIndex": 2,
+              "Title": "DataPungutan.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataPungutan.cs",
+              "RelativeDocumentMoniker": "Models\\DataPungutan.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Models\\DataPungutan.cs",
+              "RelativeToolTip": "Models\\DataPungutan.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA4wBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:36:21.143Z",
               "IsPinned": true,
@@ -148,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "DataPungutanView.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataPungutanView.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataPungutanView.cs",
               "RelativeDocumentMoniker": "Views\\DataPungutanView.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Views\\DataPungutanView.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Views\\DataPungutanView.cs",
               "RelativeToolTip": "Views\\DataPungutanView.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwC4AAAAJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:37:17.899Z",
               "IsPinned": true,
@@ -162,16 +166,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "DataPungutanController.cs",
-              "DocumentMoniker": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataPungutanController.cs",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataPungutanController.cs",
               "RelativeDocumentMoniker": "Controllers\\DataPungutanController.cs",
-              "ToolTip": "H:\\Macam API\\WebApp\\BackEnd\\WebApp\\Controllers\\DataPungutanController.cs",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\Controllers\\DataPungutanController.cs",
               "RelativeToolTip": "Controllers\\DataPungutanController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T19:37:53.069Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\Macam API\\WebApp\\WebApp\\BackEnd\\WebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T00:28:05.524Z",
               "EditorCaption": ""
             }
           ]

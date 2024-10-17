@@ -1,15 +1,15 @@
 import React from 'react';
 import { Grid, TextField, MenuItem } from '@mui/material';
 
-function DataUtama() {
-    return (
+const DataUtama = ({ data }) => ( 
+    data.map((datas) => (
         <Grid container spacing={3}>
             <Grid item xs={12} sm={3}>
                 <TextField
                     fullWidth
                     size="small"
                     variant="outlined"
-                    value="20120388FAE20240402000001"
+                    value={datas.nomorPengajuan}
                     disabled
                 />
             </Grid>
@@ -19,7 +19,7 @@ function DataUtama() {
                     size="small"
                     label="Tanggal Pengajuan"
                     variant="outlined"
-                    value="02-04-2024"
+                    value={datas.tanggalPengajuan}
                     disabled
                 />
             </Grid>
@@ -27,9 +27,9 @@ function DataUtama() {
                 <TextField
                     fullWidth
                     size="small"
-                    label="Nomor Pendaftaran"
                     variant="outlined"
-                    placeholder="Nomor Pendaftaran"
+                    value={datas.nomorPendaftaran}
+                    disabled
                 />
             </Grid>
             <Grid item xs={12} sm={3}>
@@ -38,7 +38,7 @@ function DataUtama() {
                     size="small"
                     label="Tanggal Pendaftaran"
                     variant="outlined"
-                    placeholder="Tanggal Pendaftaran"
+                    value={datas.tanggalPendaftaran}
                     disabled
                 />
             </Grid>
@@ -109,7 +109,7 @@ function DataUtama() {
                 </TextField>
             </Grid>
         </Grid>
-    );
-}
+    ))
+);
 
 export default DataUtama;
